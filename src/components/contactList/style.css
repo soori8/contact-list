@@ -1,0 +1,33 @@
+.ctlist-col{
+  display: inline-block;
+  cursor: pointer;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+}
+.ctlist-col-1{
+  width: 35%;
+}
+.ctlist-col-2{
+  width: 25%;
+}
+.ctlist-col-3{
+  width: 17%;
+}
+.ctlist-col-4{
+  width: 17%;
+}
+.ctlist-col-5{
+  width: 6%;
+  font-size: 20px;
+  text-align: center;
+  border-right: none !important;
+}
+.ctlist-col-5:hover i{
+  color:rgb(255, 238, 5);
+}
+.contact-list-controller{
+width: 100%;
+background-color: #efefef;
+margin-top: 10px;
+box-sizing: border-box;
+}

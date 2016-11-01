@@ -1,0 +1,22 @@
+.form-sec .search-bar{
+  width: 550px;
+  height: 40px;
+  width: 550px;
+    height: 40px;
+    border: 1px solid #c1c1c1;
+    padding: 0 11px;
+    font-size: 18px;
+}
+.form-sec .search-bar:focus{
+  outline: none;
+  border-color: #41c7c2;
+}
+.form-sec .add-contact{
+  width: 130px;
+  height: 40px;
+  background-color: #41c7c2;
+    outline: none;
+    border: none;
+    color: #fff;
+    float: right;
+}

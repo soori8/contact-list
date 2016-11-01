@@ -2,7 +2,7 @@
 its a mini-project by React
 
 see the demo of this app that deployed on Github [Here...](https://soori8.github.io/contact-list/)
-
+![Preview Image](demo.png)
 Its a contact list App with these feature:
 - Add/Edite/remove contacts
 - Search through contacts name and phone number
